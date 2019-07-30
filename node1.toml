@@ -4,7 +4,7 @@ base_path = "/tmp/parity1"
 [network]
 port = 30301
 [rpc]
-port = 8001
+port = 8541
 apis = ["web3", "eth", "net", "personal", "parity", "parity_set", "traces", "rpc", "parity_accounts"]
 [websockets]
 port = 8451
